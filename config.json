@@ -1,0 +1,8 @@
+{
+    "name": "dbutils-service",
+    "version": "1.0.102",
+    "private": false,
+    "environment": "production",
+    "build_id": 865,
+    "allow_public_access": true
+}
